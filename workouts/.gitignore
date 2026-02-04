@@ -1,0 +1,7 @@
+node_modules/
+.DS_Store
+serviceAccount.json
+workout-c7be0-firebase-adminsdk-fbsvc-e4ba6c5e4d.json
+*.csv
+*.py
+*.txt
